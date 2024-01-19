@@ -1,4 +1,4 @@
-﻿Console.WriteLine("-----------(Maior e Menor Altura de 15 valores)------------");
+﻿Console.WriteLine("-----------(Maior e Menor Altura de 30 valores digitados)------------");
 float[] ArmazenaAlturas = new float[30];
 Console.WriteLine("Digite a altura da pessoa");
 for (int Contador = 0; Contador <= 29; Contador++)
