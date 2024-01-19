@@ -1,0 +1,15 @@
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\bin\Debug\net6.0\Maior&MenorAltura.exe
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\bin\Debug\net6.0\Maior&MenorAltura.deps.json
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\bin\Debug\net6.0\Maior&MenorAltura.runtimeconfig.json
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\bin\Debug\net6.0\Maior&MenorAltura.dll
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\bin\Debug\net6.0\Maior&MenorAltura.pdb
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.csproj.AssemblyReference.cache
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.AssemblyInfoInputs.cache
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.AssemblyInfo.cs
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.csproj.CoreCompileInputs.cache
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.dll
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\refint\Maior&MenorAltura.dll
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.pdb
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\Maior&MenorAltura.genruntimeconfig.cache
+C:\Users\Raul Diego\Desktop\C#Digite15Alturas\Maior&MenorAltura\Maior&MenorAltura\obj\Debug\net6.0\ref\Maior&MenorAltura.dll
