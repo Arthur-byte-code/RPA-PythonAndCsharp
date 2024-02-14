@@ -1,14 +1,20 @@
-﻿Console.WriteLine("-----------(Maior e Menor Altura de 30 valores digitados)------------");
-float[] ArmazenaAlturas = new float[30];
-Console.WriteLine("Digite a altura da pessoa");
-for (int Contador = 0; Contador <= 29; Contador++)
-
+Console.WriteLine("-----------(Greatest and Smallest Height of 30 values)------------");
+float[] StoredHeights = new float[30];
+float totalSum = 0;
+float totalMean;
+Console.WriteLine("Enter the height of the person");
+for (int Counter = 0; Counter <= 29; Counter++)
 {
-    Console.WriteLine($"Digite a {Contador + 1}ª altura");
-    ArmazenaAlturas[Contador] = Convert.ToSingle(Console.ReadLine());
+    Console.WriteLine($"Enter the {Counter + 1}st height");
+    StoredHeights[Counter] = Convert.ToSingle(Console.ReadLine());
+    totalSum += StoredHeights[Counter];
 }
-float MaiorAltura = ArmazenaAlturas.Max();
-float MenorAltura = ArmazenaAlturas.Min();
 
-Console.WriteLine("Maior altura é " + MaiorAltura);
-Console.WriteLine("Menor altura é " + MenorAltura);
+float GreatestHeight = StoredHeights.Max();
+float SmallestHeight = StoredHeights.Min();
+totalMean = totalSum / 30;
+
+Console.WriteLine("Greatest height is [" + GreatestHeight + "]");
+Console.WriteLine("Smallest height is [" + SmallestHeight + "]");
+Console.WriteLine("The sum of all is [" + totalSum + "]");
+Console.WriteLine("The mean is [" + totalMean + "]");
