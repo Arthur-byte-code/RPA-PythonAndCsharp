@@ -9,3 +9,4 @@ I faced the challenge of testing a C# algorithm that required repetitive inserti
 The script automated the program execution, inserting heights at specific points in the code. To increase variability in the tests, I incorporated random height generation within a realistic range.
 
 This approach not only saved time but also allowed for more comprehensive test coverage, as each execution utilized different heights. The result was an efficient and practical solution to deal with the exhaustive repetition of inputs in C# algorithm tests.
+![PythorAndC_](https://github.com/Arthur-byte-code/RPA-PythonAndCsharp/assets/152222113/6b8fefd6-ebd7-4f9f-a840-25072d31b346)
